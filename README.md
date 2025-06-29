@@ -24,4 +24,24 @@ Here are some ideas to get you started:
 
 ![Teto Vocaloid](https://i.pinimg.com/originals/dd/47/93/dd479384db04c00594ede17dc7a8216d.gif)
 
+### 💻 Favourite Languages
+yo, here are my favourite languages (from left to right):
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+---
+
+### 📫 Contact Me
+- Instagram: [@reiqyy02](https://instagram.com/reiqyy02)
+- Discord: Reiqyyy#xxxx
+
 
