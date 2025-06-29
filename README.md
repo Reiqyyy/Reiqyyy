@@ -50,5 +50,5 @@ yo, here are my favourite languages (from left to right):
 
 ##### My Github Stats 
 
-![Reiqyyy GitHub stats](https://github-readme-stats.vercel.app/api?username=reiqyyy&show_icons=true&bg_color=00000000)
+![Reiqyyy GitHub stats](https://github-readme-stats.vercel.app/api?username=reiqyyy&show_icons=true&theme=tokyonight)
 
