@@ -1,6 +1,6 @@
 ## Hello World I'm Reiqyyy 👋
 
-![Reiqyyy](github-header-image.png)
+![Reiqyyy](github-header-image.png )
 
 <!--
 **Reiqyyy/Reiqyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
