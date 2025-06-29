@@ -3,8 +3,6 @@
 ![Reiqyyy](github-header-image.png )
 
 
-<img align="right" src="https://www.pngegg.com/id/png-cdpop" width="250"/>
-
 
 
 <!--
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
 - 👋 Hello I'm Reiqyy You can call me Reiqyy or Bayu because that's is my real name Thank you so much
 - 🌱 I’m currently learning html, Css, and Java
 - 👯 I’m looking to collaborate on Web Developer
-- 📑 My Favorite Laguage Program it's Java Script
+- 📑 My Favorite Language Program it's Java Script
 
 ![Teto Vocaloid](https://i.pinimg.com/originals/dd/47/93/dd479384db04c00594ede17dc7a8216d.gif)
 
@@ -47,6 +45,6 @@ yo, here are my favourite languages (from left to right):
 
 ### 📫 Contact Me
 - Instagram: [@reiqyy02](https://instagram.com/reiqyy02)
-- Discord: Reiqyyy#xxxx
+- Discord: Reiqyy#8376
 
 
