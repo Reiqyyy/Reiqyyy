@@ -48,3 +48,7 @@ yo, here are my favourite languages (from left to right):
 - Discord: Reiqyy#8376
 
 
+##### My Github Stats 
+
+![Reiqyyy GitHub stats](https://github-readme-stats.vercel.app/api?username=reiqyyy&show_icons=true&bg_color=00000000)
+
